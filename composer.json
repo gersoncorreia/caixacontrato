@@ -1,0 +1,6 @@
+{
+    "name": "gerson/caixacontrato",
+    "require": {
+        "mpdf/mpdf": "^8.0"
+    }
+}
